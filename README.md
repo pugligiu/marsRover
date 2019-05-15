@@ -4,17 +4,16 @@ It is necessary to use any version 3.x
 
 ________________________________________ Solution ________________________________________
 
-The solution is procedural with three functions
-solving the request in the problem.
+The solution is procedural with three functions.
 
 The function:
 	-- changeOrientation:
-			permits to chnage the direction of the move
+		permits to chnage the direction of the move
 	-- move:
-			permits to manage the command M, then move of 1 unit in the direction
+		permits to manage the command M, then move of 1 unit in the direction
 	-- calcFinalPos:
-			iterates on the sequence of the command to reach the final position.
-			There are some checks to control the data and the result.
+		iterates on the sequence of the command to reach the final position.
+		There are some checks to control the data and the result.
 
 ________________________________________ Testing ________________________________________
 
