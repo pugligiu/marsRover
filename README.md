@@ -13,6 +13,6 @@ There are some checks to control the data and the results.
 
 ________________________________________ Testing ________________________________________
 
-There are unit testing for all the functions and paths in the code. In order to run the
-unit testing, it is possible to use the command
-	-- python -m unittest discover -p "*_test.py"
+There are unit testing for all the functions and paths in the code. In order to run the  
+unit testing, it is possible to use the command  
+- python -m unittest discover -p "*_test.py"
